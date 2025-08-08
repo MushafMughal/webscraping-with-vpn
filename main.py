@@ -11,6 +11,7 @@ from dotenv import load_dotenv
 # Load environment variables from .env
 load_dotenv()
 
+
 nordvpn_path = r"C:\Program Files\NordVPN\nordvpn.exe"
 
 def get_connection():
